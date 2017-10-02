@@ -1,2 +1,14 @@
 body {background-color: }
+.header{
+    text-align: right;
+    border-bottom: 2px inset red;
+}
+.logo{
+    text-align: left;
+    position:absolute;
+    top: 0px;
+}
 
+.big-picture{
+    
+}
