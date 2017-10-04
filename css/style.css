@@ -2,13 +2,12 @@ body {background-color: }
 .header{
     text-align: right;
     border-bottom: 2px inset red;
+    padding: 0 15px 0 0;
+    margin-top: 5px;
+    margin-bottom:10px;
 }
 .logo{
     text-align: left;
     position:absolute;
     top: 0px;
-}
-
-.big-picture{
-    
 }
