@@ -1,7 +1,16 @@
+/*Colors:
+    dark orange/red:#B22701
+    light orange:#FF5F34
+    orange:#FF4B1A
+    ocean green:#00B27D
+    turquoise:#1AFFBA
+*/
+
 body {background-color: }
 .header{
+    color:#B22701;
     text-align: right;
-    border-bottom: 2px inset red;
+    border-bottom: 2px inset #1AFFBA;
     padding: 0 15px 0 0;
     margin-top: 5px;
     margin-bottom:10px;
@@ -10,4 +19,15 @@ body {background-color: }
     text-align: left;
     position:absolute;
     top: 0px;
+}
+
+.smaller-pics{
+    display:flex;
+    justify-content:space-around;
+    padding:0;  
+  
+}
+
+.areas-of-my-life{
+    max-height: 60px;
 }
