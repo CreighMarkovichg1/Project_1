@@ -22,20 +22,21 @@ body {background-color: }
 .divider-line{
     border-bottom: 2px inset #1AFFBA;
 }
-
+/*
 .smaller-pics{
     display:flex;
     justify-content:space-around;  
 }
-
+*/
+/*
 .button{
     padding:none;
     border: 0;
 }
+*/
 
 .areas-of-my-life > h2{
     color:#FF5F34;
-    padding:0 0 0 60px;
 }
 
 .smaller-pics > div > h2{
@@ -54,9 +55,18 @@ body {background-color: }
     padding-top:10px;
 }
 
+.smaller-pics > div{
+    text-align:center;
+}
 
+.smaller-pics > div > img{
+    text-align:center;
+    margin:0 auto;
+}
 
-
+.aoml{
+    text-align:center;
+}
 
 
 
